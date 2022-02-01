@@ -9268,5 +9268,18 @@
                 "java"
             ]
         }
-    ]
-}
+    {
+            "short_description": "it is a jailbreak break app installer script,
+            "categories": [
+                "utilities",
+                "jailbreak"
+            ],
+            "repo_url": "https://github.com/eliekh05/install-checkra1n-using-this-script",
+            "title": "Checkra1n",
+            "icon_url": "",
+            "screenshot": [],
+            "official_site": "https://checkra.in",
+            "languages": [
+                "shell"
+            ]
+        }
